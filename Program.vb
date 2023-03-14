@@ -6,7 +6,7 @@ Module Program
         Console.WriteLine("Novo")
     End Sub
 End Module
-
+//promjena za blameat collaboratora
 Module NovaKlasaModul
     Sub Main(args As String())
         Console.WriteLine("NewSub")
